@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=48&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Heyyo!+I'm+Ayush!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=48&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Heyyo!+I'm+Abhishek!)](https://git.io/typing-svg)
 
 <h3 align="center">A random guy trynna to learn code...</h3>
 
@@ -10,14 +10,14 @@
 
 - 👯 I’m looking to collaborate on **Interview Chatbot.**
 
-- 📫 How to reach me **ayushdwivedi2729@gmail.com**
+- 📫 How to reach me **abhisaroj2210@gmail.com**
 
 - ⚡ Fun fact **I speak English(Programming Language).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/AyushDwivedi26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AyushDwivedi26" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayush-dwivedi-227504225/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-dwivedi-227504225/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-singh-040965239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-singh-040965239/" height="30" width="40" /></a>
 </p>
 
 
